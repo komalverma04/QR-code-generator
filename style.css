@@ -52,8 +52,8 @@ button:hover{
     margin-left: 510px;
     background-color: #7B66FF;
 }
-@media (width < 400px){
-    .positionimg{
-        margin-left: 50px;
+@media (max-width: 500px) {
+    .positionimg {
+        margin-left: 90px;
     }
 }
